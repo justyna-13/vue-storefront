@@ -9,6 +9,7 @@ import useUserOrders from './useUserOrders';
 import { setWishlist, useWishlist } from './useWishlist';
 import { useReview, reviewGetters } from './useReview';
 import { track } from '@vue-storefront/core';
+import useUserShipping from './useUserShipping';
 
 import {
   cartGetters,
@@ -32,6 +33,7 @@ export {
   setUser,
   useUserOrders,
   useWishlist,
+  useUserShipping,
   setWishlist,
   useReview,
   cartGetters,
