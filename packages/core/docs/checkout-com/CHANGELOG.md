@@ -2,7 +2,7 @@
 
 ## 0.0.7 (not released)
 
-- Storing payment token inside sessionStorage and clearing it in onUnmounted ([#4893](https://github.com/DivanteLtd/vue-storefront/issues/4893))
+- Storing payment token inside sessionStorage and clearing it in onUnmounted ([#4928](https://github.com/DivanteLtd/vue-storefront/issues/4928))
 
 ## 0.0.6 
 
